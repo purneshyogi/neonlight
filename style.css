@@ -99,5 +99,5 @@ a:hover span:nth-child(4)
 {
 	bottom: 100%;
 	transition: 10s;
-	transition-delay: 0.75s;
+	transition-delay: 75s;
 }
